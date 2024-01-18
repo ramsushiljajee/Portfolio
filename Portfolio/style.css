@@ -343,7 +343,7 @@ section{
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(4) .bar span{
-    width: 81%;
+    width: 65%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(5) .bar span{
@@ -351,15 +351,15 @@ section{
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
-    width: 79%;
+    width: 98%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(3) .bar span{
-    width: 87%;
+    width: 67%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(4) .bar span{
-    width: 82%;
+    width: 50%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(5) .bar span{
